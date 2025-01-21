@@ -1,0 +1,2 @@
+#define SECRET_SSID "iOT NET"
+#define SECRET_PASS "4162800101ERJ"
